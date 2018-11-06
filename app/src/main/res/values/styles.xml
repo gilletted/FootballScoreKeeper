@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#ff5722</item>
+        <item name="colorButtonNormal">#c5cae9</item>
+    </style>
+
+    <style name="TeamNameStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/twenty_four_dip_margin</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/header_text_color</item>
+        <item name="android:textSize">@dimen/team_text_size</item>
+    </style>
+
+    <style name="ScoreStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/twenty_four_dip_margin</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">@dimen/large_score_view_text_size</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/eight_dip_margin</item>
+        <item name="android:layout_marginLeft">@dimen/twenty_four_dip_margin</item>
+        <item name="android:layout_marginRight">@dimen/twenty_four_dip_margin</item>
+    </style>
+
+</resources>

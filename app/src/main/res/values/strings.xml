@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="resetButton">reset</string>
+    <string name="team_a_header">Team A</string>
+    <string name="team_b_header">Team B</string>
+    <string name="team_a_score_text_view">0</string>
+    <string name="team_b_score_text_view">0</string>
+    <string name="add_6_points_button">6 points</string>
+    <string name="add_3_points_button">3 points</string>
+    <string name="add_2_points_button">2 points</string>
+    <string name="add_1_point_button">1 point</string>
+</resources>
